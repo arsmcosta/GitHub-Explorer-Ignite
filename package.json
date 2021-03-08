@@ -1,0 +1,12 @@
+{
+  "name": "GitHub-Explorer-Ignite",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/arsmcosta/GitHub-Explorer-Ignite.git",
+  "author": "Renato Costa <arsmcosta@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1"
+  }
+}
